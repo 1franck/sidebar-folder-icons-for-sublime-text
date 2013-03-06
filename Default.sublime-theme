@@ -308,7 +308,7 @@
         "class": "sidebar_tree",
         "row_padding": [20, 3], // padding for the sidebar icons
         "indent": 12,
-        "indent_offset": 17,
+        "indent_offset": 18,
         "indent_top_level": false,
         "layer0.tint": [230, 230, 230],
         "layer0.opacity": 1.0,
