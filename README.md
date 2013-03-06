@@ -6,7 +6,7 @@ by overloading packgage Theme - Default/Default.sublime-theme
 
 Tested on Sublime Text 2 build 2217
 
-![Screenshot]()
+![Screenshot](https://github.com/1Franck/sidebar-folder-icons-for-sublime-text/blob/master/screenshot.jpg?raw=true)
 
 Install & Configure
 -----------------------------------------------------------
