@@ -1,4 +1,4 @@
-Enhance the "sublime text 2" sidebar with icons for folders
+Enhance the sublime text 2 sidebar with icons for folders
 ===========================================================
 
 This packacge add icons to folders in the sidebar.
@@ -10,7 +10,7 @@ Tested on Sublime Text 2 build 2217
 
 Install & Configure
 -----------------------------------------------------------
-Download the zip.
-Copy to your sublime text 2 /Packages/ folder
-Restart sublime just in case
-Voilà!
+- Download the zip.
+- Copy to your sublime text 2 /Packages/ folder
+- Restart sublime just in case
+- Voilà!
