@@ -1,7 +1,7 @@
 Enhance the sublime text 2 sidebar with icons for folders
 ===========================================================
 
-This packacge add icons to folders in the sidebar by overloading packgage Theme - Default/Default.sublime-theme
+This package add icons to folders in the sidebar by overloading package Theme - Default/Default.sublime-theme
 
 Icons from Soda Theme > http://buymeasoda.github.com/soda-theme/
 
