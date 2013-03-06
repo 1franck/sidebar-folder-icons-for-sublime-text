@@ -13,9 +13,10 @@ Screnshot: Sublime Text 2 build 2217 - Win7
 Install & Configure
 -----------------------------------------------------------
 - Download the zip.
-- Extract the folder to sublime text 2 <code>/Packages/</code> folder
+- Close Sublime Text 2
+- Extract the folder to Sublime Text 2 <code>/Packages/</code> folder
 - Rename <code>/sidebar-folder-icons-for-sublime-text-master/</code> to <code>/Theme - Sidebar Folder Icons/</code>
-- Restart sublime just in case
+- Start Sublime Text 2
 - Voilà!
  
 
